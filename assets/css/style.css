@@ -16,9 +16,9 @@ header section{
     color: #1B5E5C;
     height: 3em;
     background-color: #FDFBF1;
+    border: 0.001px solid transparent;
 }
 header section p{
-    margin: 0;
     font-family: "Merriweather", serif;
 }
 main section{
